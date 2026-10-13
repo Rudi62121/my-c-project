@@ -1,5 +1,4 @@
-//bin/bash
-//#NoAlisaAI, only gold hand, only hardcore, only hard question in discuss
+//#NoAlisaAI
 
 #include <stdio.h>
 #include <string.h>

@@ -10,10 +10,10 @@ int main(void) {
     printf("%s", literal);
 
     size_t lenght = strlen(literal);
-    printf("%zu\n", lenght);
+    printf("STRLEN: %zu\n", lenght);
 
     size_t size = sizeof literal;
-    printf("%zu", size);
+    printf("SIZEOF: %zu", size);
 
     return 0;
 }
